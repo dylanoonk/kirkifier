@@ -1,0 +1,14 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+processed_frames/*
+unprocessed_frames/*
+inswapper_128.onnx
+tests/
